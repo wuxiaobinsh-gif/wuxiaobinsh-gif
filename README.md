@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+
 ## About Me
 I'm a developer interested in AI, automation, and blockchain technology.
 
